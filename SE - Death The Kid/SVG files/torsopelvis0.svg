@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="160"
+   height="120"
+   viewBox="0 0 42.333332 31.750001"
+   version="1.1"
+   id="svg8"
+   shape-rendering="crispEdges"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="torsopelvis0.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="82.814252"
+     inkscape:cy="55.678546"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1040"
+     inkscape:window-height="696"
+     inkscape:window-x="-7"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Template"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-265.24998)"
+     style="display:none">
+    <image
+       sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together\mods\SE - Death The Kid\exported\deaththekid\torso_pelvis\torso_pelvis-0.png"
+       y="265.24997"
+       x="4.4408921e-016"
+       id="image823"
+       xlink:href="file:///C:/Program%20Files%20(x86)/Steam/steamapps/common/Don't%20Starve%20Together/mods/SE%20-%20Death%20The%20Kid/exported/deaththekid/torso_pelvis/torso_pelvis-0.png"
+       preserveAspectRatio="none"
+       height="31.75"
+       width="42.333332"
+       style="opacity:0.5" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Export">
+    <path
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:#1a1a1a;stroke-width:4.53543313;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 74.123088,93.9596 c -4.021845,-0.632608 -8.007258,-2.227132 -11.443059,-4.578255 -2.059246,-1.409144 -7.016969,-6.18341 -7.615441,-7.333637 -0.311054,-0.597827 -0.247906,-1.191314 0.577048,-5.423325 0.509478,-2.613621 1.007579,-5.661176 1.10689,-6.772344 l 0.180567,-2.020305 8.712566,0.0084 c 4.791911,0.0046 14.877653,0.10836 22.412759,0.230494 l 13.700192,0.222062 v 1.355052 c 0,1.669253 0.61289,7.480337 1.22861,11.648864 l 0.45948,3.110841 -2.67495,1.766976 c -5.262128,3.475982 -11.794345,6.314515 -17.069615,7.417492 -2.401867,0.502193 -7.480052,0.69718 -9.575047,0.367653 z"
+       id="path839"
+       inkscape:connector-curvature="0"
+       transform="scale(0.26458333)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;opacity:1"
+       d="m 14.499372,17.384263 c 0.0034,1.501491 -0.449398,3.117981 -0.668174,4.34313"
+       id="path827"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 13.831198,21.727393 c 3.669614,5.016989 8.926185,4.765297 14.165284,0.868626"
+       id="path831"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 27.461943,17.517897 c 0.02816,1.857596 0.30435,3.466788 0.53454,5.078122"
+       id="path833"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 14.499372,17.384263 c 4.017689,-0.135337 8.905311,0.278534 12.962571,0.133634"
+       id="path837"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>

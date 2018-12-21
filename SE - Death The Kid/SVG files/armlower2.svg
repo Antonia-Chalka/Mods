@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="80"
+   height="50"
+   viewBox="0 0 21.166659 13.229164"
+   version="1.1"
+   id="svg3734"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="armlower2.svg"
+   inkscape:export-filename="C:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together\mods\SE - Death The Kid\exported\deaththekid\arm_lower\arm_lower-1.png"
+   inkscape:export-xdpi="96.199997"
+   inkscape:export-ydpi="96.199997">
+  <defs
+     id="defs3728">
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect2903"
+       is_visible="true"
+       offset_points="0,0.13229166"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       end_linecap_type="zerowidth" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect2899"
+       is_visible="true"
+       offset_points="0,0.13229166"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       end_linecap_type="zerowidth" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect2895"
+       is_visible="true"
+       offset_points="0,0.13229166"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       end_linecap_type="zerowidth" />
+    <linearGradient
+       id="linearGradient4548"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4546" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter947"
+       inkscape:label="filter0">
+      <feTurbulence
+         id="feTurbulence951"
+         baseFrequency="0.53100000000000003"
+         result="result1"
+         numOctaves="3.7966101694915255" />
+      <feDisplacementMap
+         id="feDisplacementMap953"
+         numOctaves="4"
+         scale="9"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         in2="result1" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Roughen"
+       id="filter6163">
+      <feTurbulence
+         type="turbulence"
+         numOctaves="4"
+         seed="30"
+         baseFrequency="0.3395 0.4437"
+         result="turbulence"
+         id="feTurbulence6159" />
+      <feDisplacementMap
+         in="SourceGraphic"
+         in2="turbulence"
+         scale="0.4"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         id="feDisplacementMap6161" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="6.3168206"
+     inkscape:cx="39.980364"
+     inkscape:cy="39.909261"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     borderlayer="false"
+     inkscape:window-width="1078"
+     inkscape:window-height="696"
+     inkscape:window-x="-7"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-midpoints="false"
+     inkscape:snap-page="false"
+     inkscape:snap-to-guides="true"
+     inkscape:snap-grids="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata3731">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Template"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.04607064,-290.8922)"
+     style="display:none">
+    <image
+       sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together\mods\SE - Death The Kid\exported\deaththekid\arm_lower\arm_lower-2.png"
+       y="290.94058"
+       x="0.13415065"
+       id="image6335"
+       xlink:href="file:///C:/Program%20Files%20(x86)/Steam/steamapps/common/Don't%20Starve%20Together/mods/SE%20-%20Death%20The%20Kid/exported/deaththekid/arm_lower/arm_lower-2.png"
+       preserveAspectRatio="none"
+       height="13.16237"
+       width="21.059793"
+       style="opacity:0.4" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="MyDrawing"
+     style="display:inline"
+     transform="translate(-0.04607064,-25.642168)">
+    <path
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:#1a1a1a;stroke-width:0.518;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 18.007774,37.154153 c -0.259727,-1.034833 -0.414483,-4.544182 -0.316395,-7.174737 0.103405,-2.773115 0.121517,-2.894399 0.441413,-2.955866 0.183471,-0.03525 2.150162,-0.284633 4.370425,-0.554177 16.577604,-2.012555 28.677911,-5.658322 35.310271,-10.638824 0.795089,-0.597064 1.549587,-1.08557 1.676664,-1.08557 0.625232,0 1.699063,0.905763 2.16074,1.822558 0.692024,1.374211 0.755228,4.498917 0.112052,5.539597 -0.178633,0.289034 -0.980744,1.149744 -1.782468,1.912689 -6.743366,6.417188 -15.186977,10.161774 -26.870657,11.916641 -2.531241,0.380188 -3.93319,0.535942 -8.773805,0.974758 -1.995847,0.180929 -4.132998,0.394504 -4.749225,0.47461 -1.519015,0.197465 -1.469482,0.204733 -1.579015,-0.231679 z"
+       id="path6350"
+       inkscape:connector-curvature="0"
+       transform="matrix(0.26458326,0,0,0.26458326,0.04607064,25.642168)" />
+    <path
+       style="display:inline;opacity:1;fill:#1a1a1a;stroke:#040404;stroke-width:0.97497123;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 4.4730771,36.223324 C 4.0476654,34.88497 4.2668706,33.659098 4.2310129,32.33702"
+       id="path6269-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;opacity:1;fill:none;stroke:#1a1a1a;stroke-width:0.97497123;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 16.912761,31.691827 c 0.395285,-1.701822 -0.331473,-2.747802 -1.388507,-2.676061"
+       id="path6267-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:0.97497123;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 16.912761,31.691827 C 12.757677,36.526763 5.8424317,35.583226 4.4730771,36.223324"
+       id="path6250-20"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:0.97497123;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 15.524254,29.015766 C 13.217886,31.225947 7.5952873,32.011854 4.2310129,32.33702"
+       id="path6250-2-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>

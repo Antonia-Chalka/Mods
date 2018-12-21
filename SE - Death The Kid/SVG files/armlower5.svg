@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="60"
+   height="60"
+   viewBox="0 0 15.874994 15.874996"
+   version="1.1"
+   id="svg3734"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="armlower5.svg"
+   inkscape:export-filename="C:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together\mods\SE - Death The Kid\exported\deaththekid\arm_lower\arm_lower-0.png"
+   inkscape:export-xdpi="96.199997"
+   inkscape:export-ydpi="96.199997">
+  <defs
+     id="defs3728">
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect2903"
+       is_visible="true"
+       offset_points="0,0.13229166"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       end_linecap_type="zerowidth" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect2899"
+       is_visible="true"
+       offset_points="0,0.13229166"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       end_linecap_type="zerowidth" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect2895"
+       is_visible="true"
+       offset_points="0,0.13229166"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       end_linecap_type="zerowidth" />
+    <linearGradient
+       id="linearGradient4548"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4546" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter947"
+       inkscape:label="filter0">
+      <feTurbulence
+         id="feTurbulence951"
+         baseFrequency="0.53100000000000003"
+         result="result1"
+         numOctaves="3.7966101694915255" />
+      <feDisplacementMap
+         id="feDisplacementMap953"
+         numOctaves="4"
+         scale="9"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         in2="result1" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Roughen"
+       id="filter6163">
+      <feTurbulence
+         type="turbulence"
+         numOctaves="4"
+         seed="30"
+         baseFrequency="0.3395 0.4437"
+         result="turbulence"
+         id="feTurbulence6159" />
+      <feDisplacementMap
+         in="SourceGraphic"
+         in2="turbulence"
+         scale="0.4"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         id="feDisplacementMap6161" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8.9333334"
+     inkscape:cx="32.489707"
+     inkscape:cy="30.954037"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     borderlayer="false"
+     inkscape:window-width="1078"
+     inkscape:window-height="696"
+     inkscape:window-x="-7"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-midpoints="false"
+     inkscape:snap-page="false"
+     inkscape:snap-to-guides="true"
+     inkscape:snap-grids="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata3731">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Template"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.04607064,-288.24637)"
+     style="display:none">
+    <image
+       sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together\mods\SE - Death The Kid\exported\deaththekid\arm_lower\arm_lower-5.png"
+       y="288.26047"
+       x="0.059774946"
+       id="image7503"
+       xlink:href="file:///C:/Program%20Files%20(x86)/Steam/steamapps/common/Don't%20Starve%20Together/mods/SE%20-%20Death%20The%20Kid/exported/deaththekid/arm_lower/arm_lower-5.png"
+       preserveAspectRatio="none"
+       height="15.76343"
+       width="15.76343"
+       style="opacity:0.4" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="MyDrawing"
+     style="display:inline"
+     transform="translate(-0.04607064,-22.996335)">
+    <path
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:#1a1a1a;stroke-width:0.558;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 23.297553,47.527729 c 0.163901,-0.427119 1.129151,-4.42202 1.466054,-6.067587 1.02219,-4.992789 1.663807,-10.023176 1.983617,-15.551898 0.147724,-2.553771 0.07816,-8.380419 -0.12418,-10.401417 l -0.132802,-1.32645 0.42216,-0.612958 c 0.737044,-1.070154 1.844174,-1.797975 2.900907,-1.907039 0.890264,-0.09188 1.616554,0.196729 2.437962,0.968795 0.643562,0.604904 0.686195,0.677386 0.766367,1.302916 0.180642,1.409426 0.238621,5.394282 0.109804,7.546708 -0.243602,4.070365 -0.566697,6.892689 -1.742806,15.22388 -0.696304,4.932395 -1.083256,8.035541 -1.237034,9.920339 l -0.07418,0.909144 -0.577307,0.06936 c -0.317519,0.03815 -1.854618,0.0698 -3.415776,0.07033 -2.279063,7.83e-4 -2.827495,-0.02762 -2.782789,-0.144127 z"
+       id="path7522"
+       inkscape:connector-curvature="0"
+       transform="matrix(0.26458325,0,0,0.26458325,0.04607064,22.996335)" />
+    <g
+       id="g7511"
+       style="opacity:1"
+       transform="matrix(-0.73873624,0,0,0.73873624,12.79262,10.016577)">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path6269-5"
+         d="m 5.9911555,35.092851 c 1.7366807,0.115061 2.5425095,0.0054 3.6445798,0.106782"
+         style="display:inline;opacity:1;fill:#1a1a1a;stroke:#040404;stroke-width:0.97497123;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path6267-9"
+         d="m 4.9642897,22.169599 c 0.9540071,-1.503756 2.6564636,-1.088508 3.3289631,0.414639"
+         style="display:inline;opacity:1;fill:none;stroke:#1a1a1a;stroke-width:0.97497123;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path6250-20"
+         d="M 4.9642897,22.169599 C 4.4217686,26.071096 5.9226816,31.99231 5.9911555,35.092851"
+         style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:0.97497123;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path6250-2-3"
+         d="M 8.2932528,22.584166 C 7.781764,26.525643 8.6024157,32.16381 9.6357353,35.199633"
+         style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:0.97497123;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

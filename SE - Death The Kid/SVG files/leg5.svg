@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="60"
+   height="80"
+   viewBox="0 0 15.874999 21.166667"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="leg5.svg"
+   inkscape:export-filename="C:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together\mods\SE - Death The Kid\exported\deaththekid\leg\leg-3.png"
+   inkscape:export-xdpi="96.199997"
+   inkscape:export-ydpi="96.199997"
+   style="shape-rendering:crispEdges">
+  <defs
+     id="defs2">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Roughen"
+       id="filter1014">
+      <feTurbulence
+         type="turbulence"
+         numOctaves="4"
+         seed="38"
+         baseFrequency="0.3395 0.4437"
+         result="turbulence"
+         id="feTurbulence1010" />
+      <feDisplacementMap
+         in="SourceGraphic"
+         in2="turbulence"
+         scale="0.5"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         id="feDisplacementMap1012" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="33.551965"
+     inkscape:cy="45.238878"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1040"
+     inkscape:window-height="696"
+     inkscape:window-x="-7"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Template"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-275.83331)"
+     style="display:inline">
+    <image
+       sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together\mods\SE - Death The Kid\exported\deaththekid\leg\leg-5.png"
+       y="275.82477"
+       x="0"
+       id="image1097"
+       xlink:href="file:///C:/Program%20Files%20(x86)/Steam/steamapps/common/Don't%20Starve%20Together/mods/SE%20-%20Death%20The%20Kid/exported/deaththekid/leg/leg-5.png"
+       preserveAspectRatio="none"
+       height="21.175217"
+       width="15.881411"
+       style="stroke-width:1.33279502;opacity:0.4" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Export"
+     style="display:inline"
+     transform="translate(0,-10.583333)">
+    <g
+       id="g1087"
+       transform="matrix(0.85014239,0,0,1.0790263,1.1447547,-1.9072024)"
+       style="stroke-width:1.04409051">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1047"
+         d="m 8.2406158,26.514553 c 0.306193,-0.06457 1.0096402,-0.284512 1.1116884,-0.347581 0.041748,-0.0258 0.043755,-0.318127 0.00835,-1.216154 -0.030962,-0.78538 -0.030957,-1.789486 1.32e-5,-2.991479 0.1211064,-4.700275 0.1577425,-6.416993 0.137378,-6.437358 -0.012171,-0.01217 -0.2527149,0.02008 -0.534543,0.07167 -0.281828,0.05159 -0.7684883,0.106504 -1.0814674,0.122036 l -0.5690526,0.02824 -0.025522,0.145086 c -0.026712,0.151849 -0.099754,1.123707 -0.1444852,1.922428 -0.014407,0.257247 -0.057419,1.44643 -0.095582,2.642628 -0.098694,3.093444 -0.2011749,4.880972 -0.3316348,5.784536 -0.028003,0.193946 -0.026978,0.195618 0.1519859,0.247911 0.2895288,0.0846 1.032688,0.09978 1.3728687,0.02804 z"
+         style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:#1a1a1a;stroke-width:0.83527243;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path1045"
+         d="m 9.9149931,14.958792 c -1.5866206,0.362996 -1.6454674,0.327695 -2.993419,0.374177"
+         style="opacity:1;fill:none;stroke:#1a1a1a;stroke-width:0.83527243;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path1035"
+         d="m 9.9149929,14.958792 c 0.059149,3.927037 -0.3466725,8.525693 -0.046773,11.45918"
+         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.83527243;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path1039"
+         d="M 6.9215741,15.332969 C 6.5326004,18.114987 6.7145633,23.566186 6.2199916,26.745377"
+         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.83527243;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path1041"
+         d="M 9.8682204,26.417972 C 8.387583,27.050699 7.5451051,27.187085 6.2199916,26.745377"
+         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.83527243;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="80"
+   height="80"
+   viewBox="0 0 21.166659 21.166663"
+   version="1.1"
+   id="svg3734"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="armupper1.svg"
+   inkscape:export-filename="C:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together\mods\SE - Death The Kid\exported\deaththekid\arm_upper\arm_upper-1.png"
+   inkscape:export-xdpi="96.199997"
+   inkscape:export-ydpi="96.199997">
+  <defs
+     id="defs3728">
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect2903"
+       is_visible="true"
+       offset_points="0,0.13229166"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       end_linecap_type="zerowidth" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect2899"
+       is_visible="true"
+       offset_points="0,0.13229166"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       end_linecap_type="zerowidth" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect2895"
+       is_visible="true"
+       offset_points="0,0.13229166"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       end_linecap_type="zerowidth" />
+    <linearGradient
+       id="linearGradient4548"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4546" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter947"
+       inkscape:label="filter0">
+      <feTurbulence
+         id="feTurbulence951"
+         baseFrequency="0.53100000000000003"
+         result="result1"
+         numOctaves="3.7966101694915255" />
+      <feDisplacementMap
+         id="feDisplacementMap953"
+         numOctaves="4"
+         scale="9"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         in2="result1" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.4666667"
+     inkscape:cx="75.288684"
+     inkscape:cy="50.964552"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     borderlayer="false"
+     inkscape:window-width="1078"
+     inkscape:window-height="696"
+     inkscape:window-x="-7"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-midpoints="false"
+     inkscape:snap-page="false"
+     inkscape:snap-to-guides="true"
+     inkscape:snap-grids="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata3731">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.04607064,-282.9547)"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together\mods\SE - Death The Kid\exported\deaththekid\arm_upper\arm_upper-1.png"
+       y="283.02054"
+       x="0.09214212"
+       id="image5985"
+       xlink:href="file:///C:/Program%20Files%20(x86)/Steam/steamapps/common/Don't%20Starve%20Together/mods/SE%20-%20Death%20The%20Kid/exported/deaththekid/arm_upper/arm_upper-1.png"
+       preserveAspectRatio="none"
+       height="21.173244"
+       width="21.114008"
+       style="opacity:0.4" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="MyDrawing"
+     style="display:inline"
+     transform="translate(-0.04607064,-17.70467)">
+    <g
+       id="g927"
+       transform="matrix(-1,0,0,1,43.682873,0)"
+       style="opacity:1" />
+    <g
+       id="g2661">
+      <path
+         transform="matrix(0.26458326,0,0,0.26458326,0.04607064,17.70467)"
+         inkscape:connector-curvature="0"
+         id="path1528"
+         d="m 39.937938,55.390803 c 0,-9.127484 1.74222,-21.952362 4.148333,-30.536826 0.682541,-2.435153 1.878399,-5.579723 2.121929,-5.579723 0.291718,0 0.849718,1.954406 1.107241,3.87814 0.143672,1.073244 0.234438,7.588513 0.234438,16.828202 V 55.057524 L 46.63711,55.78045 c -0.53912,0.426992 -2.097121,1.157165 -3.80597,1.783708 l -2.893202,1.060784 z"
+         style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:#1a1a1a;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path5971"
+         d="m 10.427789,33.11003 c 0.54919,-0.230953 2.785832,-0.796348 2.785832,-0.796348"
+         style="opacity:1;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.77249968;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccsc"
+         inkscape:connector-curvature="0"
+         id="path5967"
+         d="m 10.427789,33.11003 c -0.162179,-4.680992 0.913733,-10.811439 1.635889,-10.886493 1.305724,-0.348139 1.142083,2.610767 1.136843,5.28683 -0.0034,1.721261 -0.04035,3.640692 0.0131,4.803315"
+         style="opacity:1;fill:none;stroke:#000000;stroke-width:1.05833304;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       transform="translate(0.35536746,-17.319343)"
+       style="display:inline"
+       id="g1471">
+      <path
+         transform="matrix(0.26458326,0,0,0.26458326,0.04607064,17.70467)"
+         inkscape:connector-curvature="0"
+         id="path904"
+         d="m 36.7069,61.469588 -0.474922,-0.110369 -0.128123,-1.819333 c -0.180782,-2.567108 -0.0054,-12.942321 0.281032,-16.621085 0.611869,-7.859672 1.524347,-13.86597 2.798883,-18.423388 1.099044,-3.929904 2.402679,-6.161184 3.208813,-5.492152 0.570785,0.47371 0.648137,1.732797 0.600573,9.775778 -0.04169,7.050042 0.008,8.918261 0.526101,19.768919 0.31468,6.590701 0.513495,12.037452 0.441813,12.103891 -0.07168,0.06644 -0.807098,0.281659 -1.634254,0.478267 -1.551705,0.368828 -4.680375,0.557816 -5.619916,0.339472 z"
+         style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.28799999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5971-0"
+         d="m 9.2383407,34.207137 c 1.0027203,0.524174 2.7765293,-0.111472 2.8898013,-0.18353"
+         style="opacity:1;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.75869083;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccsc"
+         inkscape:connector-curvature="0"
+         id="path5967-4"
+         d="m 9.2383407,34.207137 c -0.3398616,-5.035999 0.5610442,-11.673322 1.7830693,-11.8891 1.27448,-0.407647 0.676068,2.64656 0.813946,5.552394 0.08832,1.861474 0.227062,4.890861 0.292786,6.153176"
+         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.75869083;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

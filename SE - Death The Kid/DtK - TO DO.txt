@@ -1,0 +1,121 @@
+***********TO DO FOR DEATH THE KID MOD***********
+
+
+*Programming*
+	General files
+		Mod info - finalise
+				 - configuration
+		Mod main
+			- fuck me I don't know
+		
+		Prefab main 
+			-All the programming bits - Perk code goes here I think
+			
+		Prefab none
+			-figure out what the hell it does
+
+	Perks
+		Constant drain on sanity
+		Health regeneration
+		Reduce hunger rate
+		Immune to weather etc
+		Death when Sanity reaches 0
+		Make nightmare fuel via sacrificing health?
+		
+		BALANCE FOR THE LOVE OF GOD
+		
+
+*Dialog*
+	700/2400
+	Add other mod character interaction dialog
+	
+	
+*Character Art*
+	World Art
+		Main
+			*DONE* Lower Arm
+			*DONE* Upper Arm
+			*DONE* Upper Arm skin
+			*DONE* Cheeks
+			Face
+			*DONE* Face sail
+			*DONE* Foot
+			*DONE* Hair
+			*DONE* Hair hat
+			*DONE* Hair front
+			*DONE* Hair Pigtails
+			*DONE* Hand
+			*DONE* Base Head
+			*DONE* Base Head Hat
+			*DONE* Leg
+			*DONE* Skirt
+			*DONE* Swap_Icon
+			*DONE* Tail
+			*DONE* Torso
+			*DONE* Torso pelvis
+		
+		Ghost
+			Body
+			Eyes
+			FX
+			*DONE* Hair Pig Tails
+			Tail
+
+	Other Character Art
+		Avatars
+			Normal
+			Ghost
+			Silhouette
+		Map Icon
+			Main
+		Save slot Portrait
+			Main
+		Select Screen Portrait
+			Main
+			Silhouette
+		Text
+			Main
+			Gold
+			Fix tex code (see notes)
+		
+	Big Portraits
+		Main
+			Fix tex code (see notes)
+		None
+			Fix tex code (see notes)
+
+
+
+*FINAL STEPS*
+
+	Compile animations
+
+	Debug ayyyy
+
+	Publish - Klei forums
+			- Steam Workshop
+	Die
+	
+	
+*EXTRA FEATURES IF THERE'S TIME*
+	Liz and Patty
+		clubs because idk how the fuck you mod guns into the game
+		custom dialog (check how Lucy's code works)
+		quest? check quest mod
+	
+	Complete Grim Reaper form
+		Higher sanity
+		Way too much regenerating health
+		Glow in the dark
+		Insta-kill enemies?
+		Literally God mode
+		
+		Change some dialog
+		Modify character art
+		
+	Custom recipes?
+		Joe's coffee 
+		Uhhh...
+	
+	Custom sounds?
+		Will need external help

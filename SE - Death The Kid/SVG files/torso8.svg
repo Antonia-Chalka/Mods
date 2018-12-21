@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="160"
+   height="120"
+   viewBox="0 0 42.333332 31.750001"
+   version="1.1"
+   id="svg3734"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="torso8.svg"
+   inkscape:export-filename="C:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together\mods\SE - Death The Kid\exported\deaththekid\torso\torso-7.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs3728">
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect2903"
+       is_visible="true"
+       offset_points="0,0.13229166"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       end_linecap_type="zerowidth" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect2899"
+       is_visible="true"
+       offset_points="0,0.13229166"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       end_linecap_type="zerowidth" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect2895"
+       is_visible="true"
+       offset_points="0,0.13229166"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       end_linecap_type="zerowidth" />
+    <linearGradient
+       id="linearGradient4548"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4546" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter947"
+       inkscape:label="filter0">
+      <feTurbulence
+         id="feTurbulence951"
+         baseFrequency="0.53100000000000003"
+         result="result1"
+         numOctaves="3.7966101694915255" />
+      <feDisplacementMap
+         id="feDisplacementMap953"
+         numOctaves="4"
+         scale="9"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         in2="result1" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.4666667"
+     inkscape:cx="83.203838"
+     inkscape:cy="59.624767"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     borderlayer="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-midpoints="false"
+     inkscape:snap-page="false"
+     inkscape:snap-to-guides="true"
+     inkscape:snap-grids="true" />
+  <metadata
+     id="metadata3731">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-265.24999)"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together\mods\SE - Death The Kid\exported\deaththekid\torso\torso-8.png"
+       y="265.25"
+       x="0"
+       id="image5357"
+       xlink:href="file:///C:/Program%20Files%20(x86)/Steam/steamapps/common/Don't%20Starve%20Together/mods/SE%20-%20Death%20The%20Kid/exported/deaththekid/torso/torso-8.png"
+       preserveAspectRatio="none"
+       height="31.75"
+       width="42.333332"
+       style="opacity:0.4" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="MyDrawing"
+     style="display:inline">
+    <path
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.83307089;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="M 82.701519,93.946128 C 81.055159,86.2576 79.505631,82.430773 76.836992,79.462668 l -1.088378,-1.210514 0.01106,-7.964581 c 0.0094,-6.806595 0.0837,-8.566762 0.5107,-12.10637 1.72556,-14.303991 4.820151,-24.996368 8.946274,-30.911008 0.579897,-0.831261 1.997792,-2.489983 3.150879,-3.68605 l 2.09652,-2.174668 4.507957,0.117835 c 3.775704,0.0987 8.486466,0.595085 8.820866,0.929488 0.0439,0.04391 -0.21869,0.84862 -0.58354,1.788243 l -0.66338,1.708406 0.59387,0.297771 c 0.32663,0.163774 1.34947,0.577825 2.27297,0.920113 2.04866,0.759313 2.15942,0.850493 1.85219,1.524777 -0.22308,0.489611 -0.45004,0.548455 -3.19489,0.828317 -1.86295,0.189945 -2.99327,0.401643 -3.059,0.572919 -0.10954,0.285468 0.3392,3.946727 0.50392,4.111448 0.0525,0.05252 1.00032,0.0019 2.10621,-0.112529 1.749,-0.18095 1.99725,-0.164192 1.90732,0.128755 -0.77715,2.531531 -2.24144,9.046766 -2.89343,12.874093 -1.29626,7.609281 -1.38665,11.698634 -0.36346,16.442864 1.67988,7.789155 2.26586,14.811076 1.83661,22.008461 -0.14872,2.493562 -0.32701,4.746056 -0.39621,5.005542 -0.3461,1.297784 -12.51891,3.890588 -18.276331,3.892847 -2.542775,8.96e-4 -2.629763,-0.015 -2.734196,-0.502699 z"
+       id="path5362"
+       inkscape:connector-curvature="0"
+       transform="scale(0.26458333)" />
+    <path
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:#1a1a1a;stroke-width:3.12944886;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 67.057497,93.981517 c -8.200245,-0.866022 -16.07951,-3.459188 -21.620449,-7.115568 -0.245833,-0.162222 0.215462,-1.009308 2.186431,-4.014999 3.967129,-6.049793 4.737883,-8.173412 5.947255,-16.386165 2.324484,-15.785382 6.326915,-26.940149 12.179584,-33.944468 l 1.136683,-1.360352 2.192,0.412717 c 1.205601,0.226994 2.409595,0.463128 2.675543,0.524742 0.441663,0.102323 0.507692,-0.0231 0.762358,-1.448127 0.153347,-0.858084 0.269232,-1.638507 0.257521,-1.734273 -0.01171,-0.09577 -0.505892,-0.282689 -1.098177,-0.415385 l -1.076886,-0.241264 1.121409,-0.574713 1.121407,-0.574713 1.427666,0.648067 c 0.785215,0.356437 1.513274,0.648067 1.617907,0.648067 0.23756,0 1.53997,-2.550746 1.53997,-3.016003 0,-0.188213 -0.15112,-0.342206 -0.335821,-0.342206 -1.406277,0 1.669397,-1.379824 4.925373,-2.209646 1.381202,-0.352015 5.426906,-1.148563 5.833601,-1.148563 0.0363,0 -0.54427,0.579292 -1.290148,1.287314 -3.970704,3.769179 -6.975627,10.12394 -9.358276,19.79072 -2.412462,9.787733 -3.753247,23.24188 -3.189432,32.004461 0.206512,3.209557 0.197679,3.952037 -0.05032,4.229825 -0.675099,0.756184 -1.09144,2.986183 -1.463163,7.836934 -0.267239,3.487328 -0.560071,5.316143 -1.045471,6.529281 -0.338832,0.846823 -0.359639,0.858364 -1.49468,0.828998 -0.633085,-0.01637 -1.938932,-0.112986 -2.901883,-0.214681 z"
+       id="path5360"
+       inkscape:connector-curvature="0"
+       transform="scale(0.26458333)" />
+    <g
+       id="g927"
+       transform="matrix(-1,0,0,1,43.682873,0)"
+       style="opacity:1" />
+    <path
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 29.453772,6.1012125 c -1.487101,3.0888599 -2.417256,8.6480945 -2.117215,9.9149925 0.805094,3.399445 0.784172,5.813945 0.500818,8.329411"
+       id="path4659"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="C:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together\mods\SE - Death The Kid\exported\deaththekid\torso\torso-7.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 27.837375,24.345616 c -1.028448,0.551991 -4.991331,1.407569 -6.31221,0.992923 -0.303282,-1.583722 -0.583332,-3.045331 -1.639488,-4.164017"
+       id="path4661"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together\mods\SE - Death The Kid\exported\deaththekid\torso\torso-7.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 19.885677,21.174522 c -0.460086,1.317363 -0.06025,3.2166 -0.856293,4.191529 -2.810382,-0.0077 -6.067168,-0.981563 -7.663816,-2.338403"
+       id="path4663"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together\mods\SE - Death The Kid\exported\deaththekid\torso\torso-7.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 11.365568,23.027648 c 1.308654,-2.156745 1.980213,-2.400892 2.383006,-5.49298 0.385956,-2.962829 1.673551,-9.1016204 5.175269,-10.6646687 2.744254,-2.1472089 7.987411,-1.9459598 10.529929,-0.7687868"
+       id="path4665"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscc"
+       inkscape:export-filename="C:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together\mods\SE - Death The Kid\exported\deaththekid\torso\torso-7.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 23.687371,5.6958313 C 20.282241,7.4878999 19.256413,17.627085 19.885677,21.174522"
+       id="path4667"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together\mods\SE - Death The Kid\exported\deaththekid\torso\torso-7.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#1a1a1a;stroke-width:0.05158815;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect4669"
+       width="1.7351816"
+       height="0.84832054"
+       x="-21.352257"
+       y="-2.8400824"
+       transform="matrix(-0.90046511,-0.43492825,-0.42938886,0.90311971,0,0)"
+       inkscape:export-filename="C:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together\mods\SE - Death The Kid\exported\deaththekid\torso\torso-7.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="display:inline;opacity:1;fill:#cccccc;fill-opacity:1;stroke:#1a1a1a;stroke-width:0.05221666;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect4669-5"
+       width="1.8531376"
+       height="0.8137967"
+       x="-20.331509"
+       y="3.9738755"
+       transform="matrix(-0.98287357,-0.18428116,-0.19252638,0.9812918,0,0)"
+       inkscape:transform-center-x="2.6056319"
+       inkscape:transform-center-y="-0.52688009"
+       inkscape:export-filename="C:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together\mods\SE - Death The Kid\exported\deaththekid\torso\torso-7.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="display:inline;opacity:1;fill:#cccccc;fill-opacity:1;stroke:#1a1a1a;stroke-width:0.065;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect4669-9"
+       width="2.1916976"
+       height="1.0662314"
+       x="27.857874"
+       y="-4.4405437"
+       transform="rotate(21.052235)"
+       inkscape:export-filename="C:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together\mods\SE - Death The Kid\exported\deaththekid\torso\torso-7.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="display:inline;opacity:1;fill:#cccccc;fill-opacity:1;stroke:#1a1a1a;stroke-width:0.06499264;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect4669-5-4"
+       width="2.1913106"
+       height="1.066178"
+       x="25.667141"
+       y="10.998442"
+       transform="matrix(0.99332157,-0.11537872,0.1154508,0.9933132,0,0)"
+       inkscape:transform-center-x="-0.13395782"
+       inkscape:transform-center-y="0.15689351"
+       inkscape:export-filename="C:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together\mods\SE - Death The Kid\exported\deaththekid\torso\torso-7.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>

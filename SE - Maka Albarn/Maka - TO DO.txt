@@ -1,0 +1,117 @@
+***********TO DO FOR MAKA ALBARN MOD***********
+
+
+*Programming*
+	General files
+		Mod info - finalise
+				 - configuration
+		Mod main
+			- fuck me I don't know
+		
+		Prefab main 
+			-All the programming bits
+			
+		Prefab none
+			-figure out what the hell it does
+
+	Perks
+		Sanity regeneration
+		Sanity aura for other allies
+		Friendly mobs are friendlier for longer
+		Special powerful attacks which reduce a stat?
+		
+		BALANCE FOR THE LOVE OF GOD
+		
+
+*Dialog*
+	0/2400
+	Add other mod character interaction dialog
+	
+	
+*Character Art*
+	World Art
+		Main
+			Lower Arm
+			Upper Arm
+			Upper Arm skin
+			Cheeks
+			Face
+			Face sail
+			Foot
+			Hair
+			Hair hat
+			Hair front
+			Hair Pigtails
+			Hand
+			Base Head
+			Base Head Hat
+			Skirt
+			*DONE* Tail
+			Torso
+			Torso pelvis
+		
+		Ghost
+			Body
+			Eyes
+			FX
+			Hair Pig Tails
+			Tail
+
+	Other Character Art
+		Avatars
+			Normal
+			Ghost
+			Silhouette
+		Map Icon
+			Main
+		Save slot Portrait
+			Main
+		Select Screen Portrait
+			Main
+			Silhouette
+		Text
+			Main
+			Gold
+			Fix tex code (see notes)
+		
+	Big Portraits
+		Main
+			Fix tex code (see notes)
+		None
+			Fix tex code (see notes)
+
+
+
+*FINAL STEPS*
+
+	Compile animations
+
+	Debug ayyyy
+
+	Publish - Klei forums
+			- Steam Workshop
+	Die
+	
+	
+*EXTRA FEATURES IF THERE'S TIME*
+	Soul
+		super sharp scythe
+		custom dialog
+		quest? check quest mod
+	
+	Grigory soul form
+		Higher everything
+		Health regeneration aura
+		Auto-befriend friendly mobs
+		Stat boost to allies (figure out if it can stack)
+		Kishin Hunter
+		
+		Change some dialog
+		Modify character art
+		
+	Custom recipes?
+		Joe's coffee 
+		Uhhh...
+	
+	Custom sounds?
+		Will need external help
