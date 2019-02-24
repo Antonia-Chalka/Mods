@@ -5,28 +5,24 @@ Hello :D
 	General files
 		Mod info - finalise
 				 - configuration
-		Mod main
-			- fuck me I don't know
-		
+		Mod main - fuck me I don't know
 		Prefab main 
 			-All the programming bits - Perk code goes here I think
-			
 		Prefab none
-			-figure out what the hell it does
 
-	Perks
-		Constant drain on sanity
-		Health regeneration
-		Reduce hunger rate
-		Immune to weather etc
-		Death when Sanity reaches 0
-		Make nightmare fuel via sacrificing health?
-		
+	Perks - DONE
+		Constant drain on sanity - DONE
+		Health regeneration - DONE
+		Reduce hunger rate - DONE
+		Immune to weather etc - DONE
+		Death when Sanity reaches 0 - DONE
+		Make nightmare fuel via sacrificing health - DONE
+		higher damage - DONE
 		BALANCE FOR THE LOVE OF GOD
 		
 
 *Dialog*
-	700/2400
+	1030/2400
 	Add other mod character interaction dialog
 	
 	
@@ -115,7 +111,6 @@ Hello :D
 		
 	Custom recipes?
 		Joe's coffee 
-		Uhhh...
 	
 	Custom sounds?
 		Will need external help
